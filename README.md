@@ -1,16 +1,27 @@
-## Hi there 👋
+# Robert Florea
 
-<!--
-**rovative/rovative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc (Hons) Computer Science graduate. Building [CreatorFlow](https://github.com/rovative/creatorflow-app) — a social media scheduling app for TikTok, YouTube and Instagram.
 
-Here are some ideas to get you started:
+Open to freelance and contract work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm building
+
+**[CreatorFlow](https://github.com/rovative/creatorflow-app)** — schedule and publish content to TikTok, YouTube, and Instagram from one dashboard. Handles OAuth, media upload, and automated publishing via the TikTok and YouTube APIs. Live at [createaflow.app](https://app.createaflow.app).
+
+---
+
+### Stack
+
+TypeScript · React · Next.js · Node.js · Supabase · PostgreSQL · REST APIs · HTML · CSS
+
+---
+
+### Other projects
+
+**[accessible-profile-site](https://github.com/rovative/accessible-profile-site)** — a portfolio site built with vanilla HTML, CSS, and JS with a focus on web accessibility and semantic markup.
+
+---
+
+[createaflow.app](https://app.createaflow.app)
